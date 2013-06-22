@@ -1,7 +1,5 @@
-Krystal Cheeseburgers CopyCat Recipe
-====================================
-
-[original recipe](http://georgiapeachgal.wordpress.com/2010/11/03/krystal-cheeseburgers-copycat-recipe/)
+Copycat Krystal Cheeseburgers
+=============================
 
 * 12 – 14 Dinner Rolls (Parker house shape, 2 1/2″ x 2 1/2″ size)
 * 1 lb. lean ground beef (80% lean)
@@ -21,3 +19,5 @@ When beef patties are ready to prepare, turn fry pan on medium low heat and add 
 Frying time is just a few moments. Turn patties and cook until done but not dry. The patties should be juicy. When hamburgers are finished cooking place on top of a roll add pickles, cover hamburgers so they will steam slightly or pop in microwave covered just for a few seconds until ready to serve.
 
 Also: add cheese, mustard & ketchup
+
+[original recipe](http://georgiapeachgal.wordpress.com/2010/11/03/krystal-cheeseburgers-copycat-recipe/)
