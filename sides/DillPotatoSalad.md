@@ -1,6 +1,6 @@
 # Obfuscurity's Dill Potato Salad
 
-This was passed down to me as "German Potato Salad" but every example of the German variety I've seen online emphasizes red potatoes and bacon. So I've grown accustomed to referring to it by its trademark ingredient. Fresh dill weed really is what makes this dish. I tend to go strong on the dill and vinegar for a little extra kick. Although I suggest marinating for "at least 2 hours" I actually prefer to do it overnight. YMMV.
+This was passed down to me as "German Potato Salad" but every example of the German variety I've seen online emphasizes red potatoes and bacon. So I've grown accustomed to referring to it by its trademark ingredient. Fresh dill weed is what really makes this dish. I tend to go strong on the dill and vinegar for a little extra kick. Although I instruct to marinate the potatoes for "at least 2 hours" I actually prefer to do it overnight. YMMV.
 
 ## Ingredients
 
