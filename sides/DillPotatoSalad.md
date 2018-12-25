@@ -1,6 +1,6 @@
 # Obfuscurity's Dill Potato Salad
 
-This was passed down to me as "German Potato Salad" but every example of the German variety I've seen online emphasizes red potatoes and bacon. So I've grown accustomed to referring to it by its trademark ingredient. Fresh dill weed is what really makes this dish. I tend to go strong on the dill and vinegar for a little extra kick. Although I instruct to marinate the potatoes for "at least 2 hours" I actually prefer to do it overnight. YMMV.
+This was passed down to me as "German Potato Salad" but every example of the German variety I've seen online emphasizes red potatoes and bacon. So I've grown accustomed to referring to it by its trademark ingredient. Fresh dill weed is what really makes this dish. I tend to go strong on the dill and vinegar for a little extra kick. Although I instruct to marinate the potatoes for "at least 2 hours", I actually prefer to do it overnight. YMMV.
 
 ## Ingredients
 
@@ -20,6 +20,6 @@ This was passed down to me as "German Potato Salad" but every example of the Ger
 * Boil the potatoes. Remove them from the water when soft, but before they start to fall apart.
 * Slice the potatoes into 0.25-inch chips and lay out in layers in a casserole dish.
 * Mix the green onions, salad oil, vinegar, dill weed and garlic salt in a bowl. Spread across the potatoes.
-* Marinate the mixture for at least 2 hours. The longer, the better (TWSS).
-* Mix the mayonnaise and sour cream in a bowl. Add the celery and mix again. Pour into and mix with the potatoes.
+* Marinate the mixture for at least 2 hours. The longer, the better.
+* Mix the mayonnaise and sour cream in a bowl. Add the celery and mix again. Fold in with the potatoes.
 * Serve.
