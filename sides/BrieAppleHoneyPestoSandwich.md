@@ -1,5 +1,7 @@
 # Brie, Apple, Honey, and Pesto Sandwich
 
+Contributed by [xaprb](https://github.com/xaprb).
+
 This is practically the definition of a gourmet comfort-food lunch, and it's made from ordinary things you probably have just lying around your kitchen.
 
 ## Ingredients
