@@ -1,6 +1,8 @@
 Krispy Chocolate Cookies
 ===================
 
+Contributed by [@andy5995](https://github.com/andy5995).
+
 * 1/3 cup cocoa
 * 1/4 cup sugar
 * 1 1/2 cup rice krispies (brand name or generic)
