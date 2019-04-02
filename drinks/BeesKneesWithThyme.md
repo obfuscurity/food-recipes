@@ -1,5 +1,7 @@
 # Bee's Knees with Thyme
 
+Contributed by [xaprb](https://github.com/xaprb).
+
 This special version of Bee's Knees adds thyme for a delicate but distinctive flavoring.
 
 ## Ingredients
