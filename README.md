@@ -1,5 +1,5 @@
 # food-recipes
-============
+==============
 
 Honest-to-goodness "real food" recipes
 
@@ -9,7 +9,7 @@ Honest-to-goodness "real food" recipes
 
 ## Sides
 
-* [Cole Slaw](https://github.com/obfuscurity/food-recipes/blob/master/sides/ColeSlaw.md)
+* [Robert Irvine's Cole Slaw](https://github.com/obfuscurity/food-recipes/blob/master/sides/ImpossibleColeSlaw.md)
 * [Dill Potato Salad](https://github.com/obfuscurity/food-recipes/blob/master/sides/DillPotatoSalad.md)
 
 
