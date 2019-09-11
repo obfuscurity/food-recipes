@@ -1,5 +1,7 @@
 # Grandma Groeschl's Rolled Oatmeal Cookies
 
+## Ingredients
+
 * 2 cups Sugar
 * 1 1/2 cup Crisco (lard)
 * 4 eggs
@@ -10,7 +12,7 @@
 * 1 lb seeded raisins
 * 4 cups oatmeal (quick-cooking rolled oats)
 
-## Optional
+### Optional
 
 * coconut, chopped nuts, or both
 
