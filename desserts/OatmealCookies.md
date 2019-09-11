@@ -6,7 +6,7 @@
 * 3 1/2 cups flour
 * 1 tsp baking soda
 * 2 tsp cinnamon
-* 2 tsp salt
+* 1 tsp salt
 * 1 lb seeded raisins
 * 4 cups oatmeal (quick-cooking rolled oats)
 
