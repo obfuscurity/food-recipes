@@ -5,6 +5,7 @@ Honest-to-goodness "real food" recipes
 ## Desserts
 
 * [Krispy Chocolate Cookies](https://github.com/obfuscurity/food-recipes/blob/master/desserts/KrispyChocolateCookies.md)
+* [Oatmeal Cookies](https://github.com/obfuscurity/food-recipes/blob/master/desserts/OatmealCookies.md)
 
 ## Sides
 
