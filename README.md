@@ -4,8 +4,17 @@ Honest-to-goodness "real food" recipes
 
 ## Desserts
 
+* [Applesauce](https://github.com/obfuscurity/food-recipes/blob/master/desserts/applesauce.md)
 * [Krispy Chocolate Cookies](https://github.com/obfuscurity/food-recipes/blob/master/desserts/KrispyChocolateCookies.md)
 * [Oatmeal Cookies](https://github.com/obfuscurity/food-recipes/blob/master/desserts/OatmealCookies.md)
+
+## Drinks
+
+* [Bee's Knees with Thyme](https://github.com/obfuscurity/food-recipes/blob/master/drinks/BeesKneesWithThyme.md)
+
+## Entrees
+
+* [Copycat Krystal Cheeseburgers](https://github.com/obfuscurity/food-recipes/blob/master/entrees/KrystalCopycatBurgers.md)
 
 ## Sides
 
