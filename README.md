@@ -22,5 +22,6 @@ Honest-to-goodness "real food" recipes
 * [Robert Irvine's Cole Slaw](https://github.com/obfuscurity/food-recipes/blob/master/sides/ImpossibleColeSlaw.md)
 * [Dill Potato Salad](https://github.com/obfuscurity/food-recipes/blob/master/sides/DillPotatoSalad.md)
 * [Sauteed Mushrooms](https://github.com/obfuscurity/food-recipes/blob/master/sides/SauteedMushrooms.md)
+* [Salsa Dip](https://github.com/obfuscurity/food-recipes/blob/master/sides/SalsaDip.md)
 
 
