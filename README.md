@@ -2,6 +2,10 @@
 
 Honest-to-goodness "real food" recipes
 
+## Breakfasts
+
+* [Apple Dutch Baby](https://github.com/obfuscurity/food-recipes/blob/master/breakfasts/AppleDutchBaby.md)
+
 ## Desserts
 
 * [Applesauce](https://github.com/obfuscurity/food-recipes/blob/master/desserts/applesauce.md)
