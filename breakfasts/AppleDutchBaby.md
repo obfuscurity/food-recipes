@@ -23,3 +23,5 @@ Place butter in a heavy 10-inch skillet or baking dish and place in the oven. Ad
 As soon as the butter has melted (watch it so it does not burn) and the apple has started to turn golden, add the batter to the pan, return pan to the oven and bake for 20 minutes, until the pancake is puffed and golden. Lower oven temperature to 300 degrees and bake five minutes longer.
 
 Remove pancake from oven, cut into wedges and serve at once topped with syrup, preserves, confectioners' sugar or cinnamon sugar.
+
+Forked from [original recipe here](https://cooking.nytimes.com/recipes/6648-dutch-baby).
