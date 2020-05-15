@@ -18,6 +18,9 @@ Honest-to-goodness "real food" recipes
 
 ## Entrees
 
+* [Fish Tacos](https://github.com/obfuscurity/food-recipes/blob/master/entrees/FishTacos.md)
+* [Garlic Pasta](https://github.com/obfuscurity/food-recipes/blob/master/entrees/GarlicPasta.md)
+* [Thai Red Curry Chicken](https://github.com/obfuscurity/food-recipes/blob/master/entrees/ThaiRedCurryChicken.md)
 * [Copycat Krystal Cheeseburgers](https://github.com/obfuscurity/food-recipes/blob/master/entrees/KrystalCopycatBurgers.md)
 
 ## Sides
