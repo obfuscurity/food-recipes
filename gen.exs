@@ -7,9 +7,18 @@ defmodule(Readme) do
 
   def document(recipes) do
     content_header = File.read!("./README_header.md")
+    content_index = recipe_group_index(recipes)
     content_body = recipe_listing(recipes)
 
-    Enum.join([content_header, content_body], "\n")
+    Enum.join([content_header, content_index, content_body], "\n")
+  end
+
+  def recipe_group_index(recipes) do
+    recipes
+    |> Enum.map(fn {recipe_group, _recipe_files} ->
+      "* [" <> recipe_group <> "](" <> "#" <> String.downcase(recipe_group) <> ")"
+    end)
+    |> (&("These are the kinds of recipes:\n\n" <> Enum.join(&1, "\n") <> "\n")).()
   end
 
   def recipe_listing(recipes) do
