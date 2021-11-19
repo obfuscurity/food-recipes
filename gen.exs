@@ -18,7 +18,7 @@ defmodule(Readme) do
     |> Enum.map(fn {recipe_group, _recipe_files} ->
       "* [" <> recipe_group <> "](" <> "#" <> String.downcase(recipe_group) <> ")"
     end)
-    |> (&("These are the kinds of recipes:\n\n" <> Enum.join(&1, "\n") <> "\n")).()
+    |> (&("## Index\n\n" <> Enum.join(&1, "\n") <> "\n")).()
   end
 
   def recipe_listing(recipes) do

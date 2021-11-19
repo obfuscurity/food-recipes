@@ -2,7 +2,11 @@
 
 Honest-to-goodness "real food" recipes
 
-These are the kinds of recipes:
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Index
 
 * [breakfasts](#breakfasts)
 * [desserts](#desserts)
