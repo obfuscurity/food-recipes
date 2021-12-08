@@ -1,28 +1,21 @@
-# Guacamole
+# K's Spicy Guacamole
 
-By [J. Kenji López-Alt](https://www.seriouseats.com/user/profile/kenjilopezalt)
+By [Kenya Simpson]
 
 ## Ingredients
 
-* 1 small yellow onion, roughly chopped
-* 1 serrano chili, roughly chopped
-* 1/2 cup picked cilantro leaves, finely chopped, divided
+* 1/2 cup diced red onion
+* 2 roma tomato, finely diced
+* 1/2 cup of finely chopped fresh cilantro
 * 2 teaspoons kosher salt
-* 4 ripe avocados
-* 2 tablespoons juice from 2 limes
+* 4 ripe avocados - peeled, pitted, and mashed
+* 2 tablespoons of fresh lime juice
+* 1 teaspoon of minced garlic
+* 1/4 teaspoon of minced fresh jalepeno
 
 ## Directions
 
-Place onion, chili, half of cilantro leaves, and salt in a mortar and
-pestle. Pound into a fine paste. Alternatively, combine onion, chili,
-half of cilantro, salt, and half of lime juice in a food processor or
-blender and process until smooth paste is formed, scraping down sides
-as necessary.
-
-### Alternate Directions
-
-Split each avocado in half, discard pits, and spoon out flesh into a
-medium bowl. Roughly mash with a stiff whisk. Add onion/chili puree,
-remaining cilantro leaves, and half of lime juice (if using mortar and
-pestle method). Fold to combine. Season to taste with more salt and
-lime juice. Serve immediately with warm tortilla chips.
+In a medium sized bowl, combine the avocados, lime juice, and salt. 
+Mash into a smooth paste.Mix in the onion, cilantro, tomatoes, and garlic. 
+Stir in the jalepeno to taste. Refridgerate immediately for up to an hour
+for the best taste. Serve with warm tortilla chips.
