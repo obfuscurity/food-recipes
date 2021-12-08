@@ -1,11 +1,15 @@
 Garlic Pasta
 ============
 
-* 1 package fettucini
+* 1 package pasta
 * 1/4 cup olive oil
 * 4 cloves garlic, minced
 * salt and pepper to taste
 * grated parmesan cheese to taste
+* Tomato Paste and 2 tomato
+* Ground beef
+* 1 onion
+* Cacique (crema mexicana)
 
 This recipe is very simple yet fragrant and delicious. Although the original recipe (link below) intends it to be a side, this adaption is meant to be served as your main entree. 
 
